@@ -4,7 +4,7 @@
 !app/cache/.gitkeep
 !app/logs/.gitkeep
 
-# Email spool folder
+# Email spool folder Test
 /app/spool/*
 
 # Cache, session files and logs (Symfony3)
